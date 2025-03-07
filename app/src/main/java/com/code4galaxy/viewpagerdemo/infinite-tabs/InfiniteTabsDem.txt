@@ -1,0 +1,9 @@
+// Nw create a feature with inifinite tabs in the application like
+
+there is 5 categories while category can have vaiable sub categories like
+
+category Mobile -> 
+Subcategory -> Android, iPhone, Windows phone
+
+Category - Laptop
+SubCategory - Windows and MacBook
